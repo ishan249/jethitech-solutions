@@ -1,0 +1,97 @@
+.heading {
+  font-family: "Open Sans", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 43.58px;
+  width: 280px;
+  padding-bottom: 8px;
+}
+hr {
+  height: 10px;
+  width: 280px;
+  background-color: #000;
+  margin: auto;
+}
+.text-divider {
+  border-bottom: 5px solid #000;
+  border-radius: 5px;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+.subHeading {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21.79px;
+  padding-top: 8px;
+}
+.offerProcess {
+  border-radius: 4px;
+  width: 300px;
+  height: 54px;
+  padding: 6px;
+}
+.box1 {
+  gap: 10px;
+  margin: 12px;
+}
+.offerNumber {
+  background-color: white;
+  border-radius: 50%;
+  padding: 2px 10px;
+  margin-right: 10px;
+}
+.offerDescription {
+  background: #ffffff;
+  box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  padding: 14px;
+  width: 300px;
+}
+.offerDescriptionTitle {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  padding-top: 10px;
+  line-height: 38px;
+  color: #002550;
+}
+.offerDescriptionText {
+  font-family: "Open Sans";
+  padding-top: 16px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  color: #1a1a1a;
+  opacity: 0.6;
+}
+.offerDetails{
+    margin-top: 14px;
+}
+.offerButton{
+    border: 1px solid #01244A;
+    padding: 10px;
+    color: #01244A;
+    border-radius: 5px;
+}
+.offerBtnTitle{
+    font-family: "Open Sans";
+    font-weight: 600;
+    line-height: 25px;
+    font-size: 12px;
+    font-style: normal;
+}
+.offerPrice{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 24px;
+padding: 12px 6px;
+
+color: #01244A;
+}
+.offerBox{
+    gap: 16px;
+}

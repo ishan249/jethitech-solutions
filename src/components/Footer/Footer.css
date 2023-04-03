@@ -1,0 +1,36 @@
+.footerMainDiv {
+  background-color: #01244a;
+  height: 280px;
+}
+.boxes {
+  color: white;
+  height: 160px;
+  width: 220px;
+  margin: 14px;
+}
+.headText {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  padding: 4px 0px;
+  font-size: 16px;
+}
+.subText {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-size: 14px;
+
+}
+.copyRightText{
+    color: white;
+    font-family: "Open Sans";
+    font-style: normal;
+    font-size: 16px;
+}
+.footerTextsmall{
+    font-family: "Open Sans";
+    font-weight: 600;
+    font-size: 12px;
+    color: white;
+    padding: 10px 6px;
+}

@@ -1,0 +1,52 @@
+.heading {
+  font-family: "Open Sans", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 43.58px;
+  width: 280px;
+  padding-bottom: 8px;
+}
+hr {
+  height: 10px;
+  width: 280px;
+  background-color: #000;
+  margin: auto;
+}
+.text-divider {
+  border-bottom: 5px solid #000;
+  border-radius: 5px;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+.blogDate {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  color: #1a1a1a;
+}
+.blogTitle {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: bold;
+  text-align: left;
+  line-height: 30px;
+  font-size: 18px;
+  padding: 16px 0px;
+  color: #002550;
+}
+.blogDescription {
+  text-align: left;
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  opacity: 0.6;
+}
+.ViewButton {
+  border: 1px solid #01244a;
+  padding: 10px;
+  color: #01244a;
+  border-radius: 5px;
+  margin: 14px 0px;
+}

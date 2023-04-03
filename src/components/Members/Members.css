@@ -1,0 +1,58 @@
+.memberHeading {
+  font-family: "Open Sans", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 43.58px;
+  width:380px;
+  padding-bottom: 8px;
+}
+hr {
+  height: 10px;
+  width: 280px;
+  background-color: #000;
+  margin: auto;
+}
+.text-divider {
+  border-bottom: 5px solid #000;
+  border-radius: 5px;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+.infoBox {
+  box-shadow: 0px 4px 61px rgba(0, 0, 0, 0.16);
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 14px;
+  width: 300px;
+
+  gap: 10px;
+  margin: 12px;
+}
+.memberName{
+    font-family: 'Open Sans';
+    text-align: left;
+    /* font-style: normal; */
+    /* font-weight: 600; */
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 30px;
+    color: #1A1A1A;
+    padding-top: 10px;
+}
+.memberDescription{
+    text-align: left;
+
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 24px;
+    opacity: 0.6;
+}
+.simpleTag{
+  font-family: 'Open Sans';
+font-style: normal;
+color: #002550;
+font-weight: 400;
+line-height: 22px;
+}

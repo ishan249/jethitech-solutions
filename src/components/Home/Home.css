@@ -1,0 +1,44 @@
+.box {
+  width: 500px;
+  padding: 12px;
+}
+.boxText {
+  font-family: "Open Sans";
+  padding: 12px;
+  font-style: normal;
+  font-size: 12px;
+  font-weight: 400;
+  opacity: 0.6;
+  color: #1a1a1a;
+}
+.mainDivision{
+    /* width: 1000px; */
+    display: flex;
+    justify-content: center;
+    height: 320px;
+}
+.boxHeading {
+  margin-bottom: 4px;
+  font-family: "Open Sans";
+  padding: 6px 12px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  color: #1a1a1a;
+}
+.offerDetails{
+    margin-top: 14px;
+}
+.offerButton{
+    border: 1px solid #01244A;
+    padding: 10px;
+    color: #01244A;
+    border-radius: 5px;
+}
+.offerBtnTitle{
+    font-family: "Open Sans";
+    font-weight: 600;
+    line-height: 25px;
+    font-size: 12px;
+    font-style: normal;
+}
